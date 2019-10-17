@@ -5,9 +5,9 @@
 - [x] Nested scope and "scope chain"
 - [x] Function calling vs passing
 - [x] Callback functions and Higher Order functions
-- [ ] Intro to anonymous functions
-- [ ] Arrow Functions
-- [ ] Implementing our own forEach and/or our own filter
+- [x] Intro to anonymous functions
+- [x] Arrow Functions
+- [x] Implementing our own forEach and/or our own filter
 
 ### Callback
 - A callback is a function that gets passed to another function (to be invoked by that function)
