@@ -1,10 +1,10 @@
 # W1D4 - Callbacks!
 
 ### To Do
-- [ ] Functions as values
-- [ ] Nested scope and "scope chain"
-- [ ] Function calling vs passing
-- [ ] Callback functions and Higher Order functions
+- [x] Functions as values
+- [x] Nested scope and "scope chain"
+- [x] Function calling vs passing
+- [x] Callback functions and Higher Order functions
 - [ ] Intro to anonymous functions
 - [ ] Arrow Functions
 - [ ] Implementing our own forEach and/or our own filter
